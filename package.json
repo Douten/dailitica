@@ -12,7 +12,8 @@
   "dependencies": {
     "axios": "^0.17.1",
     "vue": "^2.4.4",
-    "vue-material": "^1.0.0-beta-7"
+    "vue-material": "^1.0.0-beta-7",
+    "vuedraggable": "^2.15.0"
   },
   "browserslist": [
     "> 1%",
